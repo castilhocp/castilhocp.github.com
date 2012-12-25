@@ -1,0 +1,35 @@
+/* Heavily influenced by Svbtle */
+/* Author: André de Castilho Costa Pinto */
+
+
+body {
+	font-size:1em;
+	line-height:1.4;
+	margin:0;
+	min-width:700px;
+	font-family:'Source Sans Pro', sans-serif;
+	background-color:white;
+}
+
+#personal-info {
+	min-height:100%;
+	position:absolute;
+	display:block;
+	margin-left:0;
+	padding-left:2%;
+	z-index:1;
+	min-width:200px;
+	width:25%;
+	background-color:whiteSmoke;
+}
+
+#river {
+	display:block;
+	position:relative;
+	margin-left:25%;
+	min-width:500px;
+	border-left:1px solid #EAEAEA;
+	z-index:9999;
+	background-color:white;
+	min-height:1000px;
+}
