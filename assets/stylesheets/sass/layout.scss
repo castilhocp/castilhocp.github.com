@@ -15,7 +15,6 @@ html,body {
 body {
 	display:table;
 	margin:0;
-	min-width:$total_min_width;
 	background-color:white;
 	border-top:5px solid #ED5456;
 }
@@ -30,13 +29,11 @@ body {
 	min-height:100%;
 	margin-left:0;
 	padding-left:2%;
-	min-width:$sidebar_min_width;
 	width:25%;
 	background-color:$color_sidebar_background;
 	padding:2%;
 	z-index:-1;
 	padding-top:10%;
-	max-width:450px;
 
 	div#sidebar-content {
 		margin-left:20px;
@@ -44,12 +41,10 @@ body {
 }
 
 #river {
-	min-width:$content_min_width;
 	background-color:$color_main_background;
 	min-height:100%;
 	padding: 2%;
 	margin-left: 29%;
-	position:relative;
 	border-left:1px solid $color_sidebar_border;
 	display:inline-block;
 }
