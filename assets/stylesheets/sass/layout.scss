@@ -1,10 +1,6 @@
 /* Heavily influenced by Svbtle */
 /* Author: André de Castilho Costa Pinto */
 
-/* Variables */
-$sidebar_min_width:200px;
-$content_min_width:600px;
-$total_min_width:$sidebar_min_width+$content_min_width;
 
 html,body {
 	margin:0;
@@ -15,9 +11,8 @@ html,body {
 body {
 	display:table;
 	margin:0;
-	min-width:$total_min_width;
 	background-color:white;
-	border-top:5px solid #ED5456;
+	border-top:5px solid $color_body_top_border;
 }
 
 #sidebar,#river {
@@ -30,7 +25,6 @@ body {
 	min-height:100%;
 	margin-left:0;
 	padding-left:2%;
-	min-width:$sidebar_min_width;
 	width:25%;
 	background-color:$color_sidebar_background;
 	padding:2%;
@@ -43,15 +37,21 @@ body {
 	}
 }
 
+$river_margin:29%;
 #river {
-	min-width:$content_min_width;
 	background-color:$color_main_background;
 	min-height:100%;
-	padding: 2%;
-	margin-left: 29%;
-	position:relative;
+	margin-left: $river_margin;
+	position:absolute;
 	border-left:1px solid $color_sidebar_border;
 	display:inline-block;
+	width:100%-$river_margin;
+	div.content {
+		padding:2% 2% 2% 5%;
+	}
+	article.post {
+		border-bottom: 1px solid $color_post_border;
+	}
 }
 
 
