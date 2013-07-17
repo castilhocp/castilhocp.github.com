@@ -46,11 +46,9 @@ $river_margin:29%;
 	border-left:1px solid $color_sidebar_border;
 	display:inline-block;
 	width:100%-$river_margin;
-	div.content {
-		padding:2% 2% 2% 5%;
-	}
 	article.post {
 		border-bottom: 1px solid $color_post_border;
+		padding:2% 2% 2% 5%;
 	}
 }
 

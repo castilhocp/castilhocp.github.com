@@ -55,10 +55,9 @@ body {
   border-left: 1px solid #eaeaea;
   display: inline-block;
   width: 71%; }
-  #river div.content {
-    padding: 2% 2% 2% 5%; }
   #river article.post {
-    border-bottom: 1px solid #eaeaea; }
+    border-bottom: 1px solid #eaeaea;
+    padding: 2% 2% 2% 5%; }
 
 body {
   font-family: "Source Sans Pro", sans-serif;
@@ -74,3 +73,5 @@ body {
   #river h1 {
     font-size: 200%;
     line-height: 1.1; }
+  #river article {
+    width: 400px; }
