@@ -30,7 +30,6 @@ body {
 	padding:2%;
 	z-index:-1;
 	padding-top:10%;
-	max-width:450px;
 
 	div#sidebar-content {
 		margin-left:20px;
@@ -41,8 +40,8 @@ $river_margin:29%;
 #river {
 	background-color:$color_main_background;
 	min-height:100%;
-	margin-left: $river_margin;
-	position:absolute;
+	padding: 2%;
+	margin-left: 29%;
 	border-left:1px solid $color_sidebar_border;
 	display:inline-block;
 	width:100%-$river_margin;
