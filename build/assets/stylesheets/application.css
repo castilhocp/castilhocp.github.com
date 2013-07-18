@@ -76,8 +76,7 @@ body {
   border-radius: 75px;
   -webkit-border-radius: 75px;
   -moz-border-radius: 75px;
-  background: url("../images/hippie.jpg") no-repeat;
-  background-size: contain; }
+  background: url("assets/images/hippie.jpg") no-repeat; }
 
 #river {
   line-height: 1.5; }

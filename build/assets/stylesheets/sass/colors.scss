@@ -1,0 +1,31 @@
+/* Color definitions for my personal blog */
+
+/*
+ * Color values 
+ * maps hex to color names 
+ *
+ * Palette 1 - http://www.colourlovers.com/palette/614092/This_Charming_Man 
+ *
+ */
+$redish_orange:#ED5456;
+$vermillion:#8C3130;
+$light_grey:#EAEAEA;
+$dark_grey:#222;
+$black:#000;
+$grayish_white:#F8F8F8;
+$white:#FFF;
+$redish_grey:#FFFAF7;
+
+ /*
+  * Colorize thingies 
+  * give colors semantic meanings 
+  * this is what is used by the css 
+  * 
+  * The variable names should follow the pattern
+  *  color_what_whichpart
+	*/
+$color_sidebar_border:$light_grey;
+$color_sidebar_background:$grayish_white;
+$color_main_background:$white;
+$color_post_border:$light_grey;
+$color_body_top_border:$redish_orange;
