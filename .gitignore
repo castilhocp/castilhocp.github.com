@@ -1,2 +1,4 @@
 .sass-cache/
 *.swp
+build/
+_deploy/
