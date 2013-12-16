@@ -2,3 +2,5 @@
 *.swp
 build/
 _deploy/
+_site/
+serve/
