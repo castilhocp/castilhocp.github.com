@@ -61,7 +61,7 @@ body {
     padding: 2% 2% 2% 5%; }
 
 body {
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   line-height: 1;
   font-size: 110%; }
 
@@ -71,12 +71,12 @@ body {
 #sidebar #tagline {
   font-size: 90%; }
 #sidebar #sidebar-image {
-  width: 150px;
-  height: 150px;
-  border-radius: 75px;
-  -webkit-border-radius: 75px;
-  -moz-border-radius: 75px;
-  background: url("../images/hippie.jpg") no-repeat;
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  background: url("../images/proto_fios.jpg") no-repeat;
   background-size: contain; }
 
 #river {
