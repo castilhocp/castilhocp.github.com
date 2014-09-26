@@ -2,7 +2,7 @@
 
 title:            Site Title
 locale:           en_US
-url:              http://localhost:4000
+url:              andre.costapinto.org 
 
 
 # Jekyll configuration
@@ -26,24 +26,24 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: André Costa Pinto 
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
+  bio: "Podem ficar com a realidade, esse baixo astral em que tudo entra pelo cano. Eu quero é viver de verdade, eu fico com o cinema americano"
+  email: <nome do meio>.cp <at> g$%il . com 
   disqus-shortname: 
-  twitter: #username
-  facebook: #username
+  twitter: @castilhocp #username
+  facebook: decastilho #username
   google:
-    plus: #username
+    plus: castilho.cp #username
     analytics: 
     verify: 
     ad-client: 
     ad-slot: 
   bing-verify: 
   github: #username
-  stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: #username
+  stackoverflow: http://stackoverflow.com/users/1157224/castilho
+  linkedin: andrecostapinto #username
+  instagram: castilhocp #username
   lastfm: #username
   tumblr: #username
   pinterest: #username
