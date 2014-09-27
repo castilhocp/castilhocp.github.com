@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title:            André Costa Pinto 
-locale:           en_US
+locale:           pt-br 
 url:              http://andre.costapinto.org 
 
 
@@ -30,7 +30,7 @@ owner:
   avatar: bio-photo.jpg
   bio: "Podem ficar com a realidade, esse baixo astral em que tudo entra pelo cano. Eu quero é viver de verdade, eu fico com o cinema americano"
   email: <nome do meio>.cp <at> g$%il . com 
-  disqus-shortname: 
+  disqus-shortname: andrecostapinto 
   twitter: castilhocp #username
   facebook: decastilho #username
   google:

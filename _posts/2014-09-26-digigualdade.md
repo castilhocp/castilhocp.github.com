@@ -8,6 +8,7 @@ tags: [livros, economia, igualdade, tecnologia]
 image:
   feature: textura1.jpg
 date: 2014-09-26T23:03:08-03:00
+comments: true
 ---
 
 Era quarta-feira e chovia. Resolvi cortar caminho por uma livraria - aquecida, seca e hipotenúsica. Besteira.
