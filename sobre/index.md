@@ -8,9 +8,9 @@ image:
   credit: André Costa Pinto
 ---
 
->   Sou aquilo que sei  
+>   Sou o que sei  
 >   Sem enfeites, requintes, penachos  
->   Sou aquilo que veem  
+>   Sou o que veem  
 >   Rejunte, reboco e escrachos  
 
 Engenheiro, mestrando em administração de empresas pelo COPPEAD/UFRJ.
