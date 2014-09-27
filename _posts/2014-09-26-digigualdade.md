@@ -2,7 +2,7 @@
 layout: post
 title: "Digigualdade"
 modified:
-categories: [livros, tecnologia] 
+categories: livros 
 excerpt: O que o carro do google tem a ver com a crescente preocupação com a desigualdade
 tags: [livros, economia, igualdade, tecnologia]
 image:
@@ -14,13 +14,15 @@ Era quarta-feira e chovia. Resolvi cortar caminho por uma livraria - aquecida, s
 
 Ali, entre mim e a saída da livraria, estava o [The Second Machine Age], livro do Brynjolfsson, um economista americano estudioso daquilo que um dia se chamou de "economia da informação". Li alguns artigos dele pra minha dissertação. Alguns eram bons. Outros, ótimos. Pensei: what the heck? Comprei.
 
+![O livro que eu não compraria não fosse a chuva](/images/second_machine_age.jpg)
+
 Alguns metros de chuva e arrependimento mais tarde, estava em casa tomando café e lendo o livro. Pra minha surpresa, alguns capítulos depois, estava imerso em um argumento que me fez, por um instante, achar que se tratava de uma resposta ao livro do Piketty (sim, o do Marx pós-bug-do-milenio). O motivo da surpresa era a minha expectativa prévia. Ao comprar o livro, pretendia encontrar uma ode desmedida e sem vergonha de todos os avanços que os nerds do departamento de ciencia da computação de Stanfords e MITs derramariam sobre uma humanidade grata, feliz e saltitante. Inteligencias artificiais, a solução para a escassez de recursos naturais, uma luz no fim do túnel para uma economia verdadeiramente sustentável.
 
 Mas não. Ao invés de uma utopia centrada no poder de bits e bytes encontrei, em certa parte do livro, só "desigualdade, desigualdade, desigualdade". 
 
 O que um tema como esse (tão _século XIX_!) fazia no meu livro de utopias tecnológicas, meu descanso merecido desse baixo-astral que é a realidade? Aos poucos, o motivo foi ficando mais claro.
 
-Você já ouviu falar no Google Chauffeur (se não, veja [este vídeo](https://www.youtube.com/watch?v=cdgQpa1pUUE))? Basicamente é um computador que sabe dirigir na rua. E que em 3 anos de testes (e alguns mil kilômetros rodados) se envolveu apenas em dois acidentes, de baixa gravidade, e por culpa de outros motoristas.
+Você já ouviu falar no Google Chauffeur (se não, veja [este vídeo](https://www.youtube.com/watch?v=cdgQpa1pUUE))? Basicamente, é um computador que sabe dirigir na rua. E que em 3 anos de testes (e alguns mil kilômetros rodados) se envolveu apenas em dois acidentes, de baixa gravidade, e por culpa de outros motoristas.
 
 Pense agora nas recorrentes greves de cobradores de ônibus toda vez que se fala em automatizar por completo a cobrança de passagens (ou fazer o motorista acumular essa função). Caos nas ruas, geralmente em um dia frio, em que cai um invariável temporal. Filas nos pontos de ônibus, gente chorando, nada funcionando. Pensou?
 
@@ -45,6 +47,7 @@ Entretanto, é arriscado após estas observações ser excessivamente simplista 
 The Second Machine Age não se deixa levar pelo caminho fácil de aderir ao grupo dos tecnofóbicos e os autores efetivamente se lançam na empreitada de propor políticas públicas que neutralizem o impacto negativos do avanço da computação. Estas políticas, invariavelmente, passam pela sempre necessária priorização da educação. Mas educação entendida de um ponto de vista puramente técnico - é preciso que as pessoas adquiram as capacidades cognitivas necessárias para serem capazes de interagir de maneira proveitosa com os computadores. Desta forma, seria possível atingir um estado de "simbiose" homem-máquina benéfico para a sociedade como um todo. Esta simbiose aumentaria a capacidade intelectual das pessoas de maneira geral e possibilitaria mais inovações e avanços tecnológicos que, potencialmente, melhorariam a qualidade da vida neste nosso planeta azul, verde e branco.
 
 Colocado de maneira abstrata, assim como fiz, isto parece coisa de ficção científica. Mas o argumento dos autores é bem fundamentado e, na verdade, não é tão novo assim. Um dos artigos seminais do campo da ciência da computação, de J.R. Licklider, já cravava em sua primeira frase: 
+
 > Man-computer symbiosis is an expected development in cooperative interaction between men and electronic computers.
 
 Isso foi dito em 1960 por um dos homens mais engajados em toda a revolução digital que veio a seguir. Licklider foi diretor do "Information Processes Techniques" da ARPA, a agência governamental estadunidense que financiou e incentivou grande parte do desenvolvimento da computação no século XX. Foi um sucessor direto de Licklider, por exemplo, para se ter uma ideia da influência deste grupo no subsequente desenvolvimento tecnológico americano, quem idealizou e iniciou o projeto que veio a criar a internet. Isto mostra, portanto, que a visão de longo prazo dos cientistas envolvidos na criação dos computadores não era a de que eles iriam vir a substituir os homens, num movimento à lá Frankenstein em que a ferramenta se torna mais poderosa que o criador. Para estes cientistas, o computador deveria ser uma ferramenta capaz de _aumentar_ a capacidade humana, tanto física quanto cognitiva. Computadores e homens trabalhariam lado a lado para, desta forma, atingir níveis de produtividade nunca observados na breve história humana. Desta forma, a conclusão otimista dos autores é a de que (simplificando ao extremo o argumento presente no livro) basta fornecer a todas as pessoas, de maneira igualitária, os insumos básicos para que se instruam na arte de se relacionar com os computadores que a desigualdade, puf!, pode se tornar coisa do passado.
