@@ -4,7 +4,7 @@ title: Até logo, Facebook
 tags: pesquisa, facebook
 modified:
 image:
-    texture:
+    feature: guria_stmalo.jpg
     credit: André Costa Pinto
 ---
 
