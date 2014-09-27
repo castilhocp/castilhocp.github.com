@@ -14,7 +14,7 @@ Era quarta-feira e chovia. Resolvi cortar caminho por uma livraria - aquecida, s
 
 Ali, entre mim e a saída da livraria, estava o [The Second Machine Age], livro do Brynjolfsson, um economista americano estudioso daquilo que um dia se chamou de "economia da informação". Li alguns artigos dele pra minha dissertação. Alguns eram bons. Outros, ótimos. Pensei: what the heck? Comprei.
 
-![O livro que eu não compraria não fosse a chuva](/images/second_machine_age.jpg)
+<img src="/images/second_machine_age.jpg" alt="O livro que eu não compraria não fosse a chuva" width=35% />
 
 Alguns metros de chuva e arrependimento mais tarde, estava em casa tomando café e lendo o livro. Pra minha surpresa, alguns capítulos depois, estava imerso em um argumento que me fez, por um instante, achar que se tratava de uma resposta ao livro do Piketty (sim, o do Marx pós-bug-do-milenio). O motivo da surpresa era a minha expectativa prévia. Ao comprar o livro, pretendia encontrar uma ode desmedida e sem vergonha de todos os avanços que os nerds do departamento de ciencia da computação de Stanfords e MITs derramariam sobre uma humanidade grata, feliz e saltitante. Inteligencias artificiais, a solução para a escassez de recursos naturais, uma luz no fim do túnel para uma economia verdadeiramente sustentável.
 
