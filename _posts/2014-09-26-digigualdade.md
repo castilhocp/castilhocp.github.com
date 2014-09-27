@@ -14,11 +14,9 @@ Era quarta-feira e chovia. Resolvi cortar caminho por uma livraria - aquecida, s
 
 Ali, entre mim e a saída da livraria, estava o [The Second Machine Age](http://www.amazon.com/The-Second-Machine-Age-Technologies/dp/1480577472), livro do Brynjolfsson, um economista americano estudioso daquilo que um dia se chamou de "economia da informação". Li alguns artigos dele pra minha dissertação. Alguns eram bons. Outros, ótimos. Pensei: what the heck? Comprei.
 
-
 <img src="/images/second_machine_age.jpg" alt="The second machine age" style="width: 35%; "/>
 
-
-Alguns metros de chuva e arrependimento mais tarde, estava em casa tomando café e lendo o livro. Pra minha surpresa, alguns capítulos depois, estava imerso em um argumento que me fez, por um instante, achar que se tratava de uma resposta ao livro do Piketty (sim, o do Marx pós-bug-do-milenio). O motivo da surpresa era a minha expectativa prévia. Ao comprar o livro, pretendia encontrar uma ode desmedida e sem vergonha de todos os avanços que os nerds do departamento de ciencia da computação de Stanfords e MITs derramariam sobre uma humanidade grata, feliz e saltitante. Inteligencias artificiais, a solução para a escassez de recursos naturais, uma luz no fim do túnel para uma economia verdadeiramente sustentável.
+Alguns metros de chuva e arrependimento mais tarde, estava em casa tomando café e lendo o livro. Pra minha surpresa, alguns capítulos depois, estava imerso em um argumento que me fez, por um instante, achar que se tratava de uma resposta ao livro do Piketty (sim, o do Marx pós-bug-do-milênio). O motivo da surpresa era a minha expectativa prévia. Ao comprar o livro, pretendia encontrar uma ode desmedida e sem vergonha a todos os avanços que os nerds do departamento de ciência da computação de Stanfords e MITs derramariam sobre uma humanidade grata, feliz e saltitante. Inteligências artificiais, a solução para a escassez de recursos naturais, uma luz no fim do túnel para uma economia verdadeiramente sustentável.
 
 Mas não. Ao invés de uma utopia centrada no poder de bits e bytes encontrei, em certa parte do livro, só "desigualdade, desigualdade, desigualdade". 
 
