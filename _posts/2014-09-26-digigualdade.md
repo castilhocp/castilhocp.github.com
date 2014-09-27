@@ -3,14 +3,12 @@ layout: post
 title: "Digigualdade"
 modified:
 categories: [livros, tecnologia] 
-excerpt: O que o Instagram tem a ver com a crescente preocupação com a desigualdade
+excerpt: O que o carro do google tem a ver com a crescente preocupação com a desigualdade
 tags: [livros, economia, igualdade, tecnologia]
 image:
   feature: textura1.jpg
 date: 2014-09-26T23:03:08-03:00
 ---
-
-# Digigualdade
 
 Era quarta-feira e chovia. Resolvi cortar caminho por uma livraria - aquecida, seca e hipotenúsica. Besteira. Não se deve deixar um cachorro cortar caminho pelo açougue.
 
@@ -53,4 +51,4 @@ Isso foi dito em 1960 por um dos homens mais engajados em toda a revolução dig
 
 Mas é justamente aí que os autores me perderam (o que não é um problema grande, visto que eles chegam nesta conclusão somente no último capítulo). Brynjolfsson e McAfee dão muita ênfase à _capacidade cognitiva_ das pessoas e creem que isso, de certa forma, basta para resolver o problema da desigualdade (de novo, é bom deixar claro que os autores propõem outras políticas públicas além da melhoria/universalização da educação, mas este é um ponto central no argumento deles). No entanto, educação nao é uma questão meramente de saber o que fazer com computadores. Educação envolve dar um sentido pra isso tudo aqui que a gente vive, aprender a viver em sociedade e internalizar regras de convivência que podem ser boas ou más, de um ponto de vista social. Quanto mais se foca na parte _técnica_ da educação, menos ênfase eu sinto que é dada no aspecto seu aspecto social e cultural. E estes dois pontos, para mim, tem uma importância fundamental para diminuir a tendência a desigualdade que se observa nas últimas quatro décadas. De nada nos vale tecnocratas habilidosos, operando em perfeita harmonia com seus computadores, se não há um sistema social eficiente e capaz de ampliar o acesso aos benefícios dos avanços tecnológicos a grande parte das pessoas. E uma coisa é certa: pessoas deixadas à margem, normalmente, se revoltam. Estas revoltas, quanto surgem, tendem a ser mais destrutivas que progressitas. De novo, voltando a uma imagem usada lá no início do post, pense nos ludistas, quebrando as máquinas e brandindo vira-brequins como Don Quixote ao manejar sua lança. O problema da educação vai mais fundo que simplesmente ensinar a pensar ou a usar computadores. E é imprescindível que se pense nele também, em como será nossa vida em sociedade agora que nos relacionamos de maneira mais íntima com computadores. Sem resolver esse lado da equação, não pode haver equilíbrio nem igualdade, e tenderemos cada vez mais, perigosamente, na direção de um ludismo moderno. Exemplo de um trabalho excepcional nesse sentido é o livro da psicóloga Sherry Turkle, _[Alone Together](http://www.amazon.com/Alone-Together-Expect-Technology-Other/dp/0465031463)_. Nele, ela traz relatos impressionantes de crianças interagindo com Furbies, idosos em asilos com robôs-acompanhantes (que, pasmem, já se encontram no mercado). Mas isso é papo para outra hora, outro dia e outro clima.
 
-Por hora, fexo esse post inaugural com a principal conclusão que tiro disso tudo: *quando estiver chovendo, não cortar caminho por dentro da livraria*. No final das contas, eu ganho 1 minuto no caminho mas, dois dias depois, perco umas 2 horas escrevendo baboseiras na frente do PC.
+Por hora, fecho esse post inaugural com a principal conclusão que tiro disso tudo: *quando estiver chovendo, não cortar caminho por dentro da livraria*. No final das contas, eu ganho 1 minuto no caminho mas, dois dias depois, perco umas 2 horas escrevendo baboseiras na frente do PC.
