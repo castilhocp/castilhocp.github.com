@@ -2,7 +2,7 @@
 layout: post
 title: "Digigualdade"
 modified:
-categories: [livros, tecnologia 
+categories: [livros, tecnologia] 
 excerpt: O que o Instagram tem a ver com a crescente preocupação com a desigualdade
 tags: [livros, economia, igualdade, tecnologia]
 image:
