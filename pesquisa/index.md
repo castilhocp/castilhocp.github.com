@@ -14,9 +14,9 @@ O tempo passa.
 
 Em 30 de setembro de 2014, o Orkut será desativado. Junto dele, os _scraps_, fotos, depoimentos e juras de amizade eterna de milhões de brasileiros.
 
-De alguma forma, isso mexeu com os brios de algumas pessoas. Protestos pulularam na web e pessoas se organizaram para tentar salvar as comunidades - algumas ainda bastante ativas. Até uma marca de balas, tentando surfar na onda que o desativamento do Orkut levantou, fez uma propaganda sobre isso para veicular no Youtube ([se quiser, assista ao vídeo aqui](https://www.youtube.com/watch?v=TuZgVv20ec0)).
+De alguma forma, isso mexeu com os brios de algumas pessoas. Protestos pulularam na web e surgiram movimentos organizados para tentar salvar certas comunidades - ainda bastante ativas. A onda que o fim do Orkut produziu na internet foi tão substancial que até uma marca de balas, tentando surfá-la, fez uma propaganda sobre o tema para veicular no Youtube ([se quiser, assista ao vídeo aqui](https://www.youtube.com/watch?v=TuZgVv20ec0)).
 
-Com tanta comoção causada pelo fim do Orkut, não dá pra pensar que estas redes sociais sejam apenas "sites". Não, elas tem algo mais. Nelas, algumas pessoas investem (alguns diriam "perdem") uma boa parte de seus dias. Fazem amigos novos, brigam com antigos, choram, riem e matam o tédio. O que nos leva à pergunta: com a relevância atual que elas ganharam, como é a nossa convivência com as redes sociais? Como nos relacionamos com elas? 
+Com tanta comoção causada pelo fim do Orkut, não dá pra pensar que estas redes sociais sejam apenas "sites". Não, elas tem algo mais. Nelas, algumas pessoas investem (alguns diriam "perdem") uma boa parte de seus dias. Fazem amigos novos, brigam com antigos, choram, riem e matam o tédio. O que nos leva à pergunta: com a relevância atual que elas ganharam, como é a nossa convivência com as redes sociais? Como nos relacionamos com elas? O que muda nas nossas vidas?
 
 Para tentar entender isso, estou conversando com pessoas que abandonaram o Facebook. Batendo papo, mesmo, para entender como foi sair, o que elas sentiram, quais as dificuldades, surpresas e o que as motivaram. As histórias que ouvi até agora foram das mais diferentes, inusitadas, engraçadas, tristes. Algumas, bem normais.
 
