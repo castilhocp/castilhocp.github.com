@@ -34,10 +34,10 @@ Ao final da pesquisa, publicarei os resultados (sem a verborragia acadêmica) aq
 
 <br><br>
 <style type="text/css">
-a img :visited{
+a:visited img {
    text-decoration:none;
    }
-a img :hover{
+a:hover img {
    text-decoration:none;
    }
 a img {
