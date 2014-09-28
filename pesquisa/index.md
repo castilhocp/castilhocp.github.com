@@ -33,6 +33,18 @@ Ao final da pesquisa, publicarei os resultados (sem a verborragia acadêmica) aq
 <hr>
 
 <br><br>
-<a href="http://www.coppead.ufrj.br"><img src="/images/pesquisa/logo_coppead.png" style="height: 80px" style="text-decoration:none"></a>  
-<a href="http://www.ufrj.br"><img src="/images/pesquisa/logo_ufrj.png" style="height: 100px" style="text-decoration:none"></a>
+<style type="text/css">
+a img :visited{
+   text-decoration:none;
+   }
+a img :hover{
+   text-decoration:none;
+   }
+a img {
+   text-decoration:none;
+   } 
+</style>
+
+<a href="http://www.coppead.ufrj.br"><img src="/images/pesquisa/logo_coppead.png" style="height: 80px; margin-right:100px;"></a> 
+<a href="http://www.ufrj.br"><img src="/images/pesquisa/logo_ufrj.png" style="height: 100px"></a>
 
