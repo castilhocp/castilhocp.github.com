@@ -7,6 +7,7 @@ excerpt: O que o carro do google tem a ver com a crescente preocupação com a d
 tags: [livros, economia, igualdade, tecnologia]
 image:
   feature: textura1.jpg
+  credit: André Costa Pinto
 date: 2014-09-26T23:03:08-03:00
 comments: true
 ---
