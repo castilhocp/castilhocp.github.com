@@ -8,6 +8,10 @@ image:
     credit: André Costa Pinto
 ---
 
+<b>Se você abandonou o Facebook em algum momento da vida e quiser ajudar com minha pesquisa, eu quero falar com você! Me mande um [email](mailto:andre@costapinto.org), me ache no Google Plus ou até no Facebook, caso você tenha voltado (eu não julgo :X). Sou todo ouvidos!</b>
+
+<hr>
+
 Aqueles com mais de 20 anos de idade se lembram da febre do Orkut, aquele site esquisito, roxo e que pedia um convite para entrar. Foi matéria no Fantástico, na Veja, no Domingo Legal... Em praticamente qualquer veículo de mídia no Brasil, lá estava ele, com sua roxidão inquisidora para as cabeças de uma era sem redes sociais. Em pouco tempo, o Orkut virou febre. Por aproximadamente 5 anos, ele reinou absoluto como a rede social mais utilizada no Brasil.
 
 O tempo passa.
@@ -19,8 +23,6 @@ De alguma forma, isso mexeu com os brios de algumas pessoas. Protestos pulularam
 Com tanta comoção causada pelo fim do Orkut, não dá pra pensar que estas redes sociais sejam apenas "sites". Não, elas tem algo mais. Nelas, algumas pessoas investem (alguns diriam "perdem") uma boa parte de seus dias. Fazem amigos novos, brigam com antigos, choram, riem e matam o tédio. O que nos leva à pergunta: com a relevância atual que elas ganharam, como é a nossa convivência com as redes sociais? Como nos relacionamos com elas? O que muda nas nossas vidas?
 
 Para tentar entender isso, estou conversando com pessoas que abandonaram o Facebook. Batendo papo, mesmo, para entender como foi sair, o que elas sentiram, quais as dificuldades, surpresas e o que as motivaram. As histórias que ouvi até agora foram das mais diferentes, inusitadas, engraçadas, tristes. Algumas, bem normais.
-
-<b>Se você abandonou o Facebook em algum momento da vida e quiser ajudar com minha pesquisa, eu quero falar com você! Me mande um [email](mailto:andre@costapinto.org), me ache no Google Plus ou até no Facebook, caso você tenha voltado (eu não julgo :X). Sou todo ouvidos!</b>
 
 ### Um pouco sobre mim:
 
