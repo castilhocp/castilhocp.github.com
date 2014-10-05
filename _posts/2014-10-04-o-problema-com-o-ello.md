@@ -8,7 +8,7 @@ tags: [redes sociais, Facebook, Ello]
 image:
   feature: textura1.jpg
   credit: André Costa Pinto
-date: 
+date: 2014-10-04T22:21:08-03:00
 comments: true
 ---
 
