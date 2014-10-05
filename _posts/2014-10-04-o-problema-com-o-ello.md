@@ -45,7 +45,7 @@ Qual a utilidade *além* da rede social, você se pergunta, que o Thefacebook ti
 
 No Facebook primitivo, as pessoas que entravam lá eram todas *importantes* uma para as outras. Ou eram amigos de verdade, ou eram conhecidos de aulas, ou prospectivas namoradas, para dar alguns exemplos. As pessoas do site já formavam uma rede social coesa e densa *fora* do site. O Thefacebook apenas transportou todas as relações de amizade, fofocas, traições e amores de Harvard para a tela do computador.
 
-Como eu sei disso? Cinco dias depois do lançamento do site, [essa foi a cobertura de imprensa que ele recebeu, de um jornal interno de Harvard]((http://www.thecrimson.com/article/2004/2/9/hundreds-register-for-new-facebook-website/). Nas palavras (traduzidas) de uma das primeiras usuárias:
+Como eu sei disso? Cinco dias depois do lançamento do site, [essa foi a cobertura de imprensa que ele recebeu, de um jornal interno de Harvard](http://www.thecrimson.com/article/2004/2/9/hundreds-register-for-new-facebook-website/). Nas palavras (traduzidas) de uma das primeiras usuárias:
 
 > Se houver uma situação em que eu precise encontrar alguém para uma organização ou reunião, [o Facebook] vai ser muito útil
 
