@@ -2,11 +2,11 @@
 layout: post
 title: "O Problema com o Ello - Bonitinho, mas ordinário"
 modified:
-categories: livros 
+categories: digital 
 excerpt: O que o Ello pode aprender com Alexander Graham Bell?
 tags: [redes sociais, Facebook, Ello]
 image:
-  feature: textura1.jpg
+  feature: penitenciaria.jpg
   credit: André Costa Pinto
 date: 2014-10-04T22:21:08-03:00
 comments: true
