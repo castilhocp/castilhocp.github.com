@@ -29,7 +29,7 @@ Para a perplexidade dos "tecnologistas" de plantão, rede social *não* foi um t
 
 Antes dos sites, era uma ideia abstrata, que se referia à rede de pessoas que alguém conhecia ou se relacionava de alguma forma. Com os sites, isso mudou. Agora podemos fazer desenhinhos bacanas e coloridos dela (viva a tecnologia!).
 
-<img src="/images/ello/redesocial.png" alttext="Minha rede social do Facebook, hoje"></img>
+<img src="/images/ello/redesocial.png" alt="Minha rede social do Facebook, hoje">
 
 Tangibilizar e conectar uma rede social, portanto, é a *funcionalidade* central de um site de rede social. Sem uma rede social coerente cadastrada, pouco ou nenhum valor um site tem. A receita do sucesso, então, é simples: faça grupos de amigos entrarem na rede que tudo se resolve.
 
