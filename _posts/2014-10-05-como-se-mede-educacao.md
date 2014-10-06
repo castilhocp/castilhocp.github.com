@@ -12,7 +12,7 @@ date: 2014-10-05T14:53:00-04:00
 comments: true
 ---
 
-Dia 01 de Outubro, o LinkedIn, aquela rede social para contatos profissionais em que todos estão arrumadinhos nas fotos, publicou um [ranking das melhores universidades americanas](https://www.linkedin.com/edu/rankings/us), baseado no resultado da carreira de seus alunos.
+O LinkedIn, aquela rede social para contatos profissionais em que todos estão arrumadinhos nas fotos, publicou um [ranking das melhores universidades americanas](https://www.linkedin.com/edu/rankings/us), baseado no resultado da carreira de seus alunos.
 
 <img src="/images/ranking/ranking.png" alt="O ranking to LinkedIn é separado por tipo de carreira">
 
