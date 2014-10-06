@@ -12,7 +12,9 @@ date: 2014-10-05T14:53:00-04:00
 comments: true
 ---
 
-Ontem à noite, o LinkedIn, aquela rede social para contatos profissionais, em que todos estão arrumadinhos nas fotos, publicou um [ranking das melhores universidades americanas](https://www.linkedin.com/edu/rankings/us), baseado no resultado da carreira de seus alunos.
+Dia 01 de Outubro, o LinkedIn, aquela rede social para contatos profissionais em que todos estão arrumadinhos nas fotos, publicou um [ranking das melhores universidades americanas](https://www.linkedin.com/edu/rankings/us), baseado no resultado da carreira de seus alunos.
+
+<img src="/images/ranking/ranking.png" alt="O ranking to LinkedIn é separado por tipo de carreira">
 
 Não demorou muito para o lançamento ecoar pela internet, principalmente nos jornais que também publicam rankings de universidades. [A BusinessInsider, por exemplo, ressaltou as melhores escolas rankeadas na categoria "Profissionais de Finanças"](http://www.businessinsider.com/linkedin-ranks-25-best-universities-to-work-in-finance-2014-10). O [Wall Street Journal, se posicionando mais ceticamente com relação ao ranking, questionou sua validade estatística](http://online.wsj.com/articles/linkedin-tries-college-rankings-1412377070), lembrando que os usuários do LinkedIn talvez não sejam um espelho fiel da população americana em geral.
 
@@ -28,7 +30,7 @@ O ranking do LinkedIn, ou qualquer ranking do tipo que surja daqui a pouco, pode
 
 A influência do ranking é simples de entender. O processo de escolher uma universidade para entrar é cansativo, penoso e cheio de desafios para um jovem de 16, 17 ou 18 anos. Geralmente, é a primeira grande decisão que se toma na vida. Dada sua importância, ela geralmente suscita uma dose considerável de insegurança.
 
-Para tentar mitigar a insegurança, os jovens fazem o que podem. Conversam com pais, amigos, vão a feiras de cursos, leem livros, visitam universidades. Tentam obter a maior quantidade possível de informação sobre a universidade para assim, quem sabe, tomar uma decisão mais acertada.
+Para tentar mitigar a insegurança, os jovens fazem o que podem. Conversam com pais e amigos, vão a feiras de cursos, leem livros, visitam universidades. Tentam obter a maior quantidade possível de informação sobre a universidade para assim, quem sabe, tomar uma decisão mais acertada.
 
 Um ranking como esse, baseado em dados rígidos e quantificáveis, a princípio, pode parecer uma coisa boa. Afinal, toda ajuda é bem-vinda durante um processo de escolha tão conturbado. Se coloque no lugar de um jovem prestes a entrar na Universidade. Melhor ainda, tente se lembrar de como foi tomar essa decisão. Não seria ótimo ter uma lista com o que as pessoas que escolheram tal curso em tal universidade acabaram fazendo?
 
@@ -54,7 +56,7 @@ A diferença do ranking do LinkedIn é a capacidade que ele tem de utilizar dado
 
 O ranking do LinkedIn é paralelo ao Google porque os dados em que se baseia são observações *reais*, e não respostas fornecidas através de questionários. Isso, claro, caso ele consiga provar que seus dados são confiáveis e que são compostos por uma amostra representativa da população como um todo. A realidade dos dados, independentes de ações de marketing das universidades, torna esta uma ferramenta muito mais relevante do ponto de vista dos alunos. Ali está o número verdadeiro de pessoas que saíram de um curso e viraram banqueiros, por exemplo. O poder dessa realidade é muito forte.
 
-Além disso, este ranking do LinkedIn sinaliza um movimento da rede social para tentar aumentar sua relevância no mercado de admissão universitária (que, nos Estados Unidos, movimenta uma boa quantia de dinheiro). Uma possibilidade, quem sabe, é a rede social acabar mediando, inclusive, alguma parte do processo seletivo universitário norte-americano. Se eles tiverem sucesso, daqui a pouco veremos crianças de 15 anos preocupadas em preencher seus perfis com inúmeras atividades extra-curriculares, notas nas matérias e, horror dos horrores, falando em atrocidades como "personal branding".
+Além disso, este ranking do LinkedIn sinaliza um movimento da rede social para tentar aumentar sua relevância no mercado de admissão universitária (que, nos Estados Unidos, movimenta uma boa quantia de dinheiro). Uma possibilidade, quem sabe, é a rede social acabar mediando, inclusive, alguma parte do processo seletivo universitário norte-americano. Se eles tiverem sucesso, daqui a pouco veremos crianças de 15 anos preocupadas em preencher seus perfis com inúmeras atividades extracurriculares, notas nas matérias e, horror dos horrores, falando atrocidades como "personal branding".
 
 ## O que fazer, então, para evitar uma catástrofe?
 
@@ -70,10 +72,10 @@ Voltemos ao exemplo do Platão e do Isócrates. Enquanto a Escola de Retórica d
 
 No fim das contas, um dos acadêmicos perdidos no mundo das ideias formados por Platão foi Aristóteles. Aristóteles saiu para fundar outra escola: o Liceu. O Liceu, por sua vez, serviu de *alma mater* para Alexandre, o Grande. Esse mesmo, que saiu de lá para conquistar o mundo e definir, inclusive, o que eu e você falamos e pensamos até os dias de hoje.
 
-Imagine, agora, um algoritmo como o do LinkedIn funcionando naquela época. Com certeza, a Escola de Retórica seria matéria de capa de Forbes, BusinessWeeks e Wall Street Journals toda vez que seu período de inscrições se aproximasse.
+Imagine, agora, um algoritmo como o do LinkedIn funcionando naquela época. Com certeza, a Escola de Retórica seria matéria de capa de BusinessWeeks e Wall Street Journals toda vez que seu período de inscrições se aproximasse.
 
-Por outro lado, por mais que a Academia e seus lunáticos contassem com a admiração popular, muito dificilmente eles figurariam no topo do ranking.
+Por outro lado, por mais que a Academia e seus lunáticos ainda contassem com a admiração popular, muito dificilmente eles figurariam no topo de um ranking.
 
-Todavia, sem ligar muito para o que os outros diziam e pensavam, eles acabariam gerarando um Aristóteles, e Aristóteles, um Alexandre. 
+Todavia, sem ligar muito para o que os outros diziam e pensavam, eles gerariam um Aristóteles, e este Aristóteles ensinaria Alexandre. 
 
 Através deles, invariavelmente, eles conquistariam o mundo.
