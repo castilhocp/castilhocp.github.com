@@ -14,7 +14,7 @@ comments: true
 
 O problema com o Ello em uma palavra: Tostines. Me explico:
 
-O Ello foi um dos temas mais quentes nos cadernos de tecnologia da semana passada. Não é nada, não é nada... você pode pensar, mas não é muita coisa mesmo. Mesmo assim, a nova rede social do smiley sem olhos, segundo seu fundador, chegou a ter por um momento mais de 30.000 usuários se registrando por hora. Ainda que esse número não chegue a impressionar alguns ouvidos acostumados aos milhões típicos das manias da internet, é usuário até dizer chega.
+O Ello foi um dos temas mais quentes nos cadernos de tecnologia da semana passada. Não é nada, não é nada... não é muita coisa mesmo. Mesmo assim, a nova rede social do smiley sem olhos, segundo seu fundador, chegou a ter por um momento mais de 30.000 usuários se registrando por hora. Ainda que esse número não chegue a impressionar alguns ouvidos acostumados aos milhões típicos das manias da internet, é usuário até dizer chega.
 
 Para você que não deu a devida atenção ao seu Feed (ou não visitou a página principal do Globo.com) na última semana, o Ello é uma nova rede social, sem propaganda, que promete respeitar a privacidade de seus usuários. Foi lançada em modo beta (uma desculpa pra dizer que não funciona direito) em Agosto de 2014 e abriu convites para os reles mortais no meio de Setembro. Antes que você se pergunte: sim, você leu bem, é preciso convite para entrar no Ello. Que 2004, né?
 
