@@ -20,11 +20,11 @@ Esse tipo de análise é comum. Veja se você concorda com o diagnóstico frio e
 
 Não dá pra fugir. Quando a cultura aperta, pra onde correr? Vejamos outra opinião, de um americano emigrado, para não me acusarem de escolher pontos de vistas isolados e sem respaldo:
 
-> "[os moradores daqui] dão a impressão de serem profundamente preguiçosos e indiferentes ȧ passagem do tempo", "são altamente emocionais, vivendo como se o futuro não importasse, presos apenas ao presente".
+> [os moradores daqui] dão a impressão de serem profundamente preguiçosos e indiferentes ȧ passagem do tempo (...) são altamente emocionais, vivendo como se o futuro não importasse, presos apenas ao presente.
 
 Ou ainda a declaração de Beatrice Webb, uma socialista linha-dura (de verdade) britânica, para não dizerem que é coisa de capitalista imperialista sem coração:
 
-> "evidentemente, as pessoas daqui não tem o menor desejo de ensinarem os outros a pensar"
+> evidentemente, as pessoas daqui não tem o menor desejo de ensinar os outros a pensar
 
 Agora, se ainda resta alguma fagulha de orgulho e amor-próprio em você, você deve estar indignado com o consultor australiano, com o americano insolente e a inglesa sem caráter. 
 
@@ -36,9 +36,11 @@ Nós brasileiros adoramos dizer, normalmente em um tom leve mas tipicamente auto
 
 Enquanto crescia no Brasil, isso era pra mim algo bastante natural.
 
-Carros? Os alemães são insuperáveis (e a única grande fabricante a surgir no Brasil foi a Gurgel, sem mais). Computadores? Estados Unidos. TVs? Japoneses. E a lista segue por um bom tempo. Tudo que temos são a cachaça, o chinelo de dedo e o futebol (até isso roubaram dagente esse ano. Pôxa, Alemanha, vocês já tinham os carros!). Ah, e talvez nossos bikinis, o formato de nossas calcinhas e a distinta depilação hitleriana, que são sexistas demais para nos orgulharmos a plenos pulmões. Bebidas, um esporte, um chinelo de dedo de borracha e objetos e práticas relacionados ȧ região pélvica das mulheres. Nada para se orgulhar, não é mesmo?
+Carros? Os alemães são insuperáveis (e a única grande fabricante a surgir no Brasil foi a Gurgel, sem mais). Computadores? Estados Unidos. TVs? Japoneses. E a lista segue por um bom tempo. Tudo que temos são a cachaça, o chinelo de dedo e o futebol (até isso roubaram dagente esse ano. Pôxa, Alemanha, vocês já tinham os carros!). Ah, e talvez nossos bikinis, o formato de nossas calcinhas e a distinta depilação hitleriana, que são sexistas demais para nos orgulharmos a plenos pulmões. 
 
-Um bom exemplo sintomático da síndrome de vira-lata em ação é como os brasileiros se referem a algumas das modelos brasileiras de carreira internacional, como a onipresente Gisele Bündchen e a assonante Alessandra Ambrosio.  Ao falar sobre elas, um das primeiras características apontadas pelos brasileiros não é o sucesso, a beleza, ou, quem sabe?, a "brasilidade" destas mulheres. Não. O que normalmente é enfatizado é a descendência de suas famílias, normalmente alemãs (Bundchen) ou italiana (Ambrosio). Mesmo que as respectivas famílias já estejam no Brasil há um bom século e meio.
+Resumindo, temos bebidas, um esporte, um chinelo de dedo de borracha e objetos e práticas relacionados ȧ região pélvica das mulheres. Nada para se orgulhar, não é mesmo?
+
+Um bom exemplo sintomático da síndrome de vira-lata em ação é como os brasileiros se referem a algumas das modelos brasileiras de carreira internacional, como a onipresente Gisele Bündchen e a assonante Alessandra Ambrosio.  Ao falar sobre elas, um das primeiras características apontadas pelos brasileiros não é o sucesso, a beleza, ou, quem sabe?, a "brasilidade" destas mulheres. Não. O que normalmente é enfatizado são suas descendências internacionais, normalmente alemãs (Bundchen) ou italianas (Ambrosio). Mesmo que as respectivas famílias já estejam no Brasil há um bom século e meio.
 
 Este é só um exemplo anedótico de como nós normalmente consideramos o que vem de fora bom, e o que vem de dentro ruim. O Brasil é um país onde "qualidade" é uma característica eminentemente "exógena". No tempo que vivi na Alemanha, me surpreendeu o orgulho que eles tinham da "Deutsche Qualität" - a qualidade alemã. Tudo feito lá, até que se provasse o contrário, era melhor que o de qualquer outro lugar do mundo. No Brasil, as coisas são ruins até que se prove o contrário. E, normalmente, esta prova não cabe a nós, reles brasileiros. Algo só se torna bom quando algum ser externo ȧs fronteiras tupiniquins endossa o produto sob escrutínio.
 
@@ -46,7 +48,7 @@ Este é só um exemplo anedótico de como nós normalmente consideramos o que ve
 
 O problema disto é que, quando terceirizamos nossa definição de qualidade, estamos automaticamente fadados a engolir qualquer coisa que interesse aos outros, e não ȧ gente. Sabe aquela historinha clichê (que *não* é do Mario Quintana) sobre cuidar do seu quintal para atrair as borboletas? Então, é difícil de acreditar que algo assim tão fofinho ocorra nas esferas do comércio e das relações internacionais, mas, pasmem, é assim que as coisas funcionam. Enquanto nós mesmos não tivermos um pouquinho mais de clareza das qualidades do nosso país, porque diabos algum alemão vai achar que algo de bom pode sair de um lugar tão exótico?
 
-Uma das raízes deste problema está no argumento auto-embasbacante de que a "cultura" do Brasil não é uma cultura de trabalho. E ele assume diversas faces e formas. Um famoso é o de que somos do jeito que somos por conta única e exclusivamente da colonização Portuguesa, aqueles exploradores bigodudos de meia tijela. Este é um exemplo do erro fundamental da atribuição em nível nacional. A culpa não é nossa, é de alguém. É um ótimo discurso para apascentar nosso orgulho nacional, mas infelizmente não é muito acertado. O Haiti foi colonizado por Franceses. A Índia por ingleses. O Suriname por holandeses. A Namíbia por alemães. Culpar o colonizador é bom pra não acharmos que a culpa é nossa. Mas é.
+Uma das raízes deste problema está no argumento auto-embasbacante de que a "cultura" do Brasil não é uma cultura de trabalho. E ele assume diversas faces e formas. Um famoso é o de que somos do jeito que somos por conta única e exclusivamente da colonização Portuguesa, aqueles exploradores bigodudos de meia tijela. Este é um exemplo do erro fundamental da atribuição em nível nacional. A culpa dos nossos problemas não é nossa, mas de um alguém lá de fora. É um ótimo discurso para apascentar nosso orgulho nacional, mas infelizmente não é muito acertado. O Haiti foi colonizado por Franceses. A Índia por ingleses. O Suriname por holandeses. A Namíbia por alemães. Culpar o colonizador é bom pra não acharmos que a culpa é nossa. Mas, infelizmente, ela é.
 
 Outra versão deste argumento diz que a culpa é da Igreja Católica, maledetos padres pedófilos e atravancadores do progresso. Segundo esta linha de racioncínio, como não passamos pela revolução da ética protestante no trabalho, somos todos uns preguiçosos supersticiosos. Como até a usura era pecado, nem bancos tivemos por aqui.
 
@@ -60,7 +62,7 @@ Voltemos ȧs falas com que iniciei o meu texto.
 
 ## O que ocorre com outros países?
 
-Para a sua surpresa, as falas ali em cima **não eram sobre o Brasil**. Eu não disse em nenhum momento que eram, mas presumo que você, muito provavelmente, nem imaginou que pudessem ser sobre um outro povo que não o brasileiro, estou certo? Mas, então, se não sobre a gente, sobre quem eram?! Claro que só pode ser sobre algum país latino, ou africano, não é mesmo?
+Para a sua surpresa, as falas no início do post **não eram sobre o Brasil**. Eu não disse em nenhum momento que se referiam a nós, mas presumo que você, muito provavelmente, nem imaginou que pudessem ser sobre um outro povo que não o brasileiro, estou certo? Mas, então, se não sobre a gente, sobre quem eram?! Claro que só pode ser sobre algum país latino, ou africano, não é mesmo?
 
 Para sua surpresa, aquelas foram todas declarações dadas sobre...
 
@@ -68,9 +70,9 @@ Para sua surpresa, aquelas foram todas declarações dadas sobre...
 
 Sim, nobre leitor anti-tupiniquim, suas certezas sobre ética protestante e influência invencível e opressora da cultura já foram usadas para justificar o atraso econômico e tecnológico do Japão. Aquelas declarações lá do início, por exemplo, foram feitas em 1915, 1903 e 1905 sobre a atual terceira maior economia do mundo.
 
-E o argumento é assustadoramente similar ao que usamos hoje para o Brasil. No caso asiático, citava-se o pensamento confucionista, voltado para a abdicação de riquezas, para uma vida ascética e na pobreza. Pior ainda, a carreira mais promissora nestes países era o funcionalismo público, visto pela maioria mais pobre como a única maneira de ascender socialmente caso não se tivesse uma família rica. Assustadoramente paralelo ao que passamos e ouvimos hoje, aqui no nosso país.
+E o argumento é assustadoramente similar ao que usamos hoje para o Brasil. No caso asiático, em vez do catolicismo, citava-se o pensamento confucionista, voltado para a abdicação de riquezas, para uma vida ascética e na pobreza. Pior ainda, a carreira mais promissora nestes países era o funcionalismo público, visto pela maioria mais pobre como a única maneira de ascender socialmente caso não se tivesse uma família rica. Assustadoramente paralelo ao que passamos e ouvimos hoje, aqui no nosso país.
 
-O mesmo já se disse, mas no início do século XIX, do povo Alemão!
+Coisas similares já se disse, mas no início do século XIX, a respeito do povo alemão.
 
 Veja o seguinte trechinho do que um médico inglês disse da Alemanha, antes do país se desenvolver a passos largos:
 
@@ -78,7 +80,7 @@ Veja o seguinte trechinho do que um médico inglês disse da Alemanha, antes do 
 
 Pois é. Primeiro, os alemães nos roubam o futebol. Agora, a Lei de Gérson (considerada por muitos como algo tipicamente brasileiro!). Eles são mesmo, pensando bem, uns ladroezinhos de uma figa!
 
-Além de que os alemães foram os brasileiros do passado, a conclusão que tiramos disto é simples. Mas deixo com o próprio autor desta observação a tarefa de explicá-la, já que ele a sumariza perfeitamente em seu livro.
+A conclusão que tiramos disto, além de que os alemães foram os brasileiros do passado, é simples. Mas deixo com o próprio autor desta observação a tarefa de explicá-la, já que ele a sumariza perfeitamente em seu livro.
 
 Estes exemplos foram tirados do impressionante livro *Bad Samaritans*, do professor de economia de Cambridge Ha-Joon Chang. Segundo o qual:
 
